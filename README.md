@@ -10,3 +10,6 @@ Hi 👋🏼 I'm a full stack mobile engineer.
 * 👨🏼‍💻 I use daily `.android` `.kotlin` `.co-routines` `.ConstraintLayout` `.room` `.mvvm`
 * 📖 I created and maintain the [Smart Siddur](https://play.google.com/store/apps/details?id=com.karriapps.smartsiddurlite&hl=en&gl=US) app
 * 📨 Ping me about **Android Development**, **Open Source** and **Friendly Chat**
+
+#### Buy me a coffee
+If you enjoyed my work and tutorials and you want to show your support, you can [buy me a coffee](https://www.buymeacoffee.com/androidoss)
